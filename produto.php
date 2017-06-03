@@ -11,7 +11,6 @@
 <div class="produto">
 	<h1>Fuzzy Cardigan</h1>
 	<p>por apenas R$ 129,00</p>
-
 	<form action="checkout.php" method="POST">
 		<fieldset class="cores">
 			<legend>Escolha a cor:</legend>
