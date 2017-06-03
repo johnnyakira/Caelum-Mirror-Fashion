@@ -232,3 +232,15 @@ footer a{
 .painel li:nth-child(2n):hover{
 	transform: scale(1.2) rotate(5deg);
 }
+
+.painel-compacto li:nth-child(n+7){
+	display: none;
+}
+
+.painel button{
+	display: none;
+}
+
+.painel-compacto button{
+	display: block;
+}

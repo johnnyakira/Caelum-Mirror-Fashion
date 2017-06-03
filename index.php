@@ -65,7 +65,7 @@
 </main>
 
 <main class="container paineis">
-  <section class="painel novidades">
+  <section class="painel novidades painel-compacto">
     <h2>Novidades</h2>
       <ol>
         <li>
@@ -117,11 +117,63 @@
           </figure>
           </a>
         </li>
-      </ol>
 
+
+
+        <li>
+          <a href="produto.php">
+          <figure>
+            <img src="img/produtos/miniatura1.png" alt="...">
+            <figcaption>Qualquer coisa</figcaption>
+          </figure>
+          </a>
+        </li>
+        <li>
+          <a href="produto.php">
+          <figure>
+            <img src="img/produtos/miniatura2.png" alt="...">
+            <figcaption>Qualquer coisa</figcaption>
+          </figure>
+          </a>
+        </li>
+        <li>
+          <a href="produto.php">
+          <figure>
+            <img src="img/produtos/miniatura3.png" alt="...">
+            <figcaption>Qualquer coisa</figcaption>
+          </figure>
+          </a>
+        </li>
+
+        <li>
+          <a href="produto.php">
+          <figure>
+            <img src="img/produtos/miniatura4.png" alt="...">
+            <figcaption>Qualquer coisa</figcaption>
+          </figure>
+          </a>
+        </li>
+        <li>
+          <a href="produto.php">
+          <figure>
+            <img src="img/produtos/miniatura5.png" alt="...">
+            <figcaption>Qualquer coisa</figcaption>
+          </figure>
+          </a>
+        </li>
+        <li>
+          <a href="produto.php">
+          <figure>
+            <img src="img/produtos/miniatura6.png" alt="...">
+            <figcaption>Qualquer coisa</figcaption>
+          </figure>
+          </a>
+        </li>
+      </ol>
+      <button type="button">Mostrar Mais</button>
   </section>
 
-  <section class="painel mais-vendidos">
+  <section class="painel mais-vendidos painel-compacto">
     <h2>Mais Vendidos</h2>
       <ol>
         <li>
@@ -173,8 +225,64 @@
           </figure>
         </a>
         </li>
+      
+
+
+        <li>
+          <a href="produto.php">
+          <figure>
+            <img src="img/produtos/miniatura7.png" alt="...">
+            <figcaption>Qualquer coisa</figcaption>
+          </figure>
+          </a>
+        </li>
+        <li>
+          <a href="produto.php">
+          <figure>
+            <img src="img/produtos/miniatura8.png" alt="...">
+            <figcaption>Qualquer coisa</figcaption>
+          </figure>
+          </a>
+        </li>
+        <li>
+          <a href="produto.php">
+          <figure>
+            <img src="img/produtos/miniatura9.png" alt="...">
+            <figcaption>Qualquer coisa</figcaption>
+          </figure>
+          </a>
+        </li>
+
+        <li>
+          <a href="produto.php">
+          <figure>
+            <img src="img/produtos/miniatura10.png" alt="...">
+            <figcaption>Qualquer coisa</figcaption>
+          </figure>
+          </a>
+        </li>
+        <li>
+          <a href="produto.php">
+          <figure>
+            <img src="img/produtos/miniatura11.png" alt="...">
+            <figcaption>Qualquer coisa</figcaption>
+          </figure>
+          </a>
+        </li>
+        <li>
+          <a href="produto.php">
+          <figure>
+            <img src="img/produtos/miniatura12.png" alt="...">
+            <figcaption>Qualquer coisa</figcaption>
+          </figure>
+        </a>
+        </li>
       </ol>
+      <button type="button">Mostrar Mais</button>
   </section>
+
+
+
 </main>
 
 <footer>
@@ -189,5 +297,8 @@
   </div>
 </footer>
 
+
+<script src="js/jquery.js"></script>
+<script src="js/home.js"></script>
 </body>
 </html>

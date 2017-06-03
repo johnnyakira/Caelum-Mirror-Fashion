@@ -80,4 +80,5 @@
 </section>
 </main>
 <script src="js/produto.js"></script>
+
 <?php include 'rodape.php' ?>
